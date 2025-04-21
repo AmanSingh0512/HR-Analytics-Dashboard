@@ -1,4 +1,4 @@
-📊 # HR Analytics Dashboard 
+📊 **HR Analytics Dashboard **
 
 This repository contains a comprehensive HR Analytics Dashboard that delivers critical insights into employee behavior, attrition patterns, and organizational health. The dashboard is designed to help HR teams make informed decisions backed by data.
 
